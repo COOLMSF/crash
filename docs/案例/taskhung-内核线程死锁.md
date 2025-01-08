@@ -116,7 +116,7 @@ insmod lkm_hello_world.ko
 
 ## 堆栈
 
-![1](../image/WeChatWorkScreenshot_13889554-7cfa-4536-b945-efc6e3feddb2.png)
+![1](WeChatWorkScreenshot_13889554-7cfa-4536-b945-efc6e3feddb2.png)
 
 
 
