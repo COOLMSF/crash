@@ -96,6 +96,7 @@
     * [内核链表踩踏-前序节点](docs/案例/内核链表踩踏-前序节点.md)
     * [内核链表踩踏-后继节点](docs/案例/内核链表踩踏-后继节点.md)
     * [softlockup-等待状态寄存器](docs/案例/softlockup-等待状态寄存器.md)
+    * [softlockup-CPU无限循环](docs/案例/softlockup-CPU无限循环.md)
 
 
 
